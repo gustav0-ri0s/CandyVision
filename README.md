@@ -60,14 +60,8 @@ python contador_mms_color.py
 ---
 
 ## 📸 Ejemplo de salida
-
-El programa guardará una imagen como:
-
-```
-reportes/reporte_mm_20250622_153017.png
-```
-
-Incluye la foto del conteo con etiquetas de colores y una tabla con el total por color.
+<img src="https://github.com/user-attachments/assets/2f330ac7-a196-496d-ac3b-aa0b63103acc" width="400">
+<img src="https://github.com/user-attachments/assets/b8f2b11f-f225-4b8f-97c6-57013524d25a" width="400">
 
 ---
 
